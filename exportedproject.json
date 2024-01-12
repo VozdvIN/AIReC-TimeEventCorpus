@@ -1,0 +1,5928 @@
+{
+  "name" : "TimeEventCorpus",
+  "slug" : null,
+  "description" : "Тестовый корпус для оценки методов нормализации темпоральных выражений и разметки событий.",
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "2001.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687785150008,
+    "updated" : 1687785158066
+  }, {
+    "name" : "2002.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687785472723,
+    "updated" : 1687785482473
+  }, {
+    "name" : "2003.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687785643362,
+    "updated" : 1687785700159
+  }, {
+    "name" : "2004.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687785974317,
+    "updated" : 1687785982102
+  }, {
+    "name" : "2005.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687785643392,
+    "updated" : 1687785711377
+  }, {
+    "name" : "2006.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060096,
+    "updated" : 1687855078663
+  }, {
+    "name" : "2007.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060114,
+    "updated" : 1687855083954
+  }, {
+    "name" : "2008.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060133,
+    "updated" : 1687855090434
+  }, {
+    "name" : "2009.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060147,
+    "updated" : 1687855101807
+  }, {
+    "name" : "2010.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060174,
+    "updated" : 1687855123327
+  }, {
+    "name" : "2011.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060188,
+    "updated" : 1687855136676
+  }, {
+    "name" : "2012.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060223,
+    "updated" : 1687855153712
+  }, {
+    "name" : "2013.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060241,
+    "updated" : 1687855164131
+  }, {
+    "name" : "2014.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060263,
+    "updated" : 1687855201659
+  }, {
+    "name" : "2015.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060283,
+    "updated" : 1687855215055
+  }, {
+    "name" : "2016.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060303,
+    "updated" : 1687855234050
+  }, {
+    "name" : "2017.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060323,
+    "updated" : 1687855236384
+  }, {
+    "name" : "2018.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060347,
+    "updated" : 1687855270736
+  }, {
+    "name" : "2019.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060406,
+    "updated" : 1687855300183
+  }, {
+    "name" : "2020.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1687855060425,
+    "updated" : 1687855305176
+  }, {
+    "name" : "inc0001.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474472,
+    "updated" : 1704983564312
+  }, {
+    "name" : "inc0002.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704983405119,
+    "updated" : 1704983415104
+  }, {
+    "name" : "inc0003.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474496,
+    "updated" : 1704974498563
+  }, {
+    "name" : "inc0004.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474515,
+    "updated" : 1704974499996
+  }, {
+    "name" : "inc0007.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474535,
+    "updated" : 1704974500997
+  }, {
+    "name" : "inc0008.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474555,
+    "updated" : 1704974501912
+  }, {
+    "name" : "inc0009.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474574,
+    "updated" : 1704974503053
+  }, {
+    "name" : "inc0010.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474596,
+    "updated" : 1704974504344
+  }, {
+    "name" : "inc0011.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474618,
+    "updated" : 1704974505445
+  }, {
+    "name" : "inc0012.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474640,
+    "updated" : 1704974506905
+  }, {
+    "name" : "inc0016.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474660,
+    "updated" : 1704974507679
+  }, {
+    "name" : "inc0019.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474680,
+    "updated" : 1704974508648
+  }, {
+    "name" : "inc0020.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970914553,
+    "updated" : 1704970933192
+  }, {
+    "name" : "inc0021.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474708,
+    "updated" : 1704983611417
+  }, {
+    "name" : "inc0025.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474727,
+    "updated" : 1704983613083
+  }, {
+    "name" : "inc0026.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704974474748,
+    "updated" : 1704983614748
+  }, {
+    "name" : "inc0027.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970914620,
+    "updated" : 1704970937448
+  }, {
+    "name" : "inc0028.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306529,
+    "updated" : 1704983619816
+  }, {
+    "name" : "inc0029.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306558,
+    "updated" : 1704983621315
+  }, {
+    "name" : "inc0031.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306606,
+    "updated" : 1704983628214
+  }, {
+    "name" : "inc0032.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306625,
+    "updated" : 1704983629786
+  }, {
+    "name" : "inc0035.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306645,
+    "updated" : 1704983644279
+  }, {
+    "name" : "inc0036.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970914713,
+    "updated" : 1704970940049
+  }, {
+    "name" : "inc0037.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306665,
+    "updated" : 1704983646796
+  }, {
+    "name" : "inc0039.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306686,
+    "updated" : 1704983648081
+  }, {
+    "name" : "inc0040.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970914794,
+    "updated" : 1704970941317
+  }, {
+    "name" : "inc0041.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306706,
+    "updated" : 1704983653123
+  }, {
+    "name" : "inc0042.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306726,
+    "updated" : 1704983653980
+  }, {
+    "name" : "inc0043.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306744,
+    "updated" : 1704983654890
+  }, {
+    "name" : "inc0044.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306763,
+    "updated" : 1704983655982
+  }, {
+    "name" : "inc0045.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306781,
+    "updated" : 1704983656996
+  }, {
+    "name" : "inc0046.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306799,
+    "updated" : 1704983657829
+  }, {
+    "name" : "inc0047.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306821,
+    "updated" : 1704983658797
+  }, {
+    "name" : "inc0048.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975306839,
+    "updated" : 1704983659633
+  }, {
+    "name" : "inc0049.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307051,
+    "updated" : 1704983660546
+  }, {
+    "name" : "inc0050.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307128,
+    "updated" : 1704983661330
+  }, {
+    "name" : "inc0051.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307146,
+    "updated" : 1704983662332
+  }, {
+    "name" : "inc0052.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307164,
+    "updated" : 1704983663126
+  }, {
+    "name" : "inc0053.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307181,
+    "updated" : 1704983670713
+  }, {
+    "name" : "inc0054.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307199,
+    "updated" : 1704983672630
+  }, {
+    "name" : "inc0055.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307217,
+    "updated" : 1704983674596
+  }, {
+    "name" : "inc0056.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307237,
+    "updated" : 1704983675484
+  }, {
+    "name" : "inc0057.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307256,
+    "updated" : 1704983676242
+  }, {
+    "name" : "inc0058.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307276,
+    "updated" : 1704983677048
+  }, {
+    "name" : "inc0060.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307295,
+    "updated" : 1704983677856
+  }, {
+    "name" : "inc0061.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307314,
+    "updated" : 1704983678851
+  }, {
+    "name" : "inc0062.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307333,
+    "updated" : 1704983680250
+  }, {
+    "name" : "inc0063.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307430,
+    "updated" : 1704983682038
+  }, {
+    "name" : "inc0066.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307499,
+    "updated" : 1704983684572
+  }, {
+    "name" : "inc0067.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307529,
+    "updated" : 1704983685606
+  }, {
+    "name" : "inc0068.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970914831,
+    "updated" : 1704970944625
+  }, {
+    "name" : "inc0069.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970915064,
+    "updated" : 1704970946234
+  }, {
+    "name" : "inc0070.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307558,
+    "updated" : 1704983688582
+  }, {
+    "name" : "inc0070b.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704975307600,
+    "updated" : 1704983937475
+  }, {
+    "name" : "inc0071.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704975307638,
+    "updated" : 1704975307638
+  }, {
+    "name" : "inc0073.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970915104,
+    "updated" : 1704970949434
+  }, {
+    "name" : "inc0074.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970915154,
+    "updated" : 1704970951789
+  }, {
+    "name" : "inc0075.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704970915219,
+    "updated" : 1704970957266
+  }, {
+    "name" : "nv0003.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973101801,
+    "updated" : 1704973133876
+  }, {
+    "name" : "nv0005.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973101836,
+    "updated" : 1704973143295
+  }, {
+    "name" : "sanofi.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704983501616,
+    "updated" : 1704983708967
+  }, {
+    "name" : "sm0003.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1674747034109,
+    "updated" : 1675168177038
+  }, {
+    "name" : "tr0003.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704983501643,
+    "updated" : 1704983718429
+  }, {
+    "name" : "tr0005.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973101865,
+    "updated" : 1704973145877
+  }, {
+    "name" : "tr0006.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704983501670,
+    "updated" : 1704983792140
+  }, {
+    "name" : "tr0007.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973101892,
+    "updated" : 1704973146835
+  }, {
+    "name" : "tr0008.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973101919,
+    "updated" : 1704973148162
+  }, {
+    "name" : "tr0016.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704983501690,
+    "updated" : 1704983796747
+  }, {
+    "name" : "tr0062.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973101950,
+    "updated" : 1704973149167
+  }, {
+    "name" : "tr0083.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973101987,
+    "updated" : 1704973150246
+  }, {
+    "name" : "tr0084.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102213,
+    "updated" : 1704973151460
+  }, {
+    "name" : "tr0086.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102255,
+    "updated" : 1704973152483
+  }, {
+    "name" : "tr0087.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102337,
+    "updated" : 1704973159048
+  }, {
+    "name" : "tr0089.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102406,
+    "updated" : 1704973160393
+  }, {
+    "name" : "tr0090.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102438,
+    "updated" : 1704973161253
+  }, {
+    "name" : "tr0092.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102477,
+    "updated" : 1704973162309
+  }, {
+    "name" : "tr0093.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102529,
+    "updated" : 1704973163353
+  }, {
+    "name" : "tr0094.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102566,
+    "updated" : 1704973164652
+  }, {
+    "name" : "tr0096.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102633,
+    "updated" : 1704973165770
+  }, {
+    "name" : "tr0097.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102708,
+    "updated" : 1704973166847
+  }, {
+    "name" : "tr0098.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102789,
+    "updated" : 1704973169045
+  }, {
+    "name" : "tr0099.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102846,
+    "updated" : 1704973171544
+  }, {
+    "name" : "tr0100.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102925,
+    "updated" : 1704973172649
+  }, {
+    "name" : "tr0304.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1674747034151,
+    "updated" : 1675168177038
+  }, {
+    "name" : "tr0306.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973102968,
+    "updated" : 1704973176532
+  }, {
+    "name" : "tr0310.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704973798106,
+    "updated" : 1704973798106
+  }, {
+    "name" : "tr0314.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704973798209,
+    "updated" : 1704973798209
+  }, {
+    "name" : "tr0315.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1674747034153,
+    "updated" : 1675168177038
+  }, {
+    "name" : "tr0316.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704973798291,
+    "updated" : 1704973798291
+  }, {
+    "name" : "tr0317.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1674747034154,
+    "updated" : 1675168177038
+  }, {
+    "name" : "tr0319.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704973798402,
+    "updated" : 1704973798402
+  }, {
+    "name" : "tr0323.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704973798498,
+    "updated" : 1704973798498
+  }, {
+    "name" : "tr0325.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704973798718,
+    "updated" : 1704973798718
+  }, {
+    "name" : "tr0333.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973798805,
+    "updated" : 1704981345303
+  }, {
+    "name" : "tr0337.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973799180,
+    "updated" : 1704981343043
+  }, {
+    "name" : "tr0345.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973799778,
+    "updated" : 1704981341925
+  }, {
+    "name" : "tr0347.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973800177,
+    "updated" : 1704981340210
+  }, {
+    "name" : "tr0348.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973800665,
+    "updated" : 1704981334741
+  }, {
+    "name" : "tr0351.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704983501898,
+    "updated" : 1704983501898
+  }, {
+    "name" : "tr0352.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973800775,
+    "updated" : 1704981326023
+  }, {
+    "name" : "tr0354.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704983501946,
+    "updated" : 1704983501946
+  }, {
+    "name" : "tr0359.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973800822,
+    "updated" : 1704981296271
+  }, {
+    "name" : "tr0361.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704973801314,
+    "updated" : 1704975396920
+  }, {
+    "name" : "tr0365.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704983501993,
+    "updated" : 1704984494736
+  }, {
+    "name" : "tr0368.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594177,
+    "updated" : 1704985594177
+  }, {
+    "name" : "tr0369.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594197,
+    "updated" : 1704985594197
+  }, {
+    "name" : "tr0370.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594216,
+    "updated" : 1704985594216
+  }, {
+    "name" : "tr0371.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594238,
+    "updated" : 1704985594238
+  }, {
+    "name" : "tr0372.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594272,
+    "updated" : 1704985594272
+  }, {
+    "name" : "tr0374.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594292,
+    "updated" : 1704985594292
+  }, {
+    "name" : "tr0375.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594310,
+    "updated" : 1704985594310
+  }, {
+    "name" : "tr0376.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594326,
+    "updated" : 1704985594326
+  }, {
+    "name" : "tr0377.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594377,
+    "updated" : 1704985594377
+  }, {
+    "name" : "tr0380.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594408,
+    "updated" : 1704985594408
+  }, {
+    "name" : "tr0381.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594435,
+    "updated" : 1704985594435
+  }, {
+    "name" : "tr0382.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594477,
+    "updated" : 1704985594477
+  }, {
+    "name" : "tr0383.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594509,
+    "updated" : 1704985594509
+  }, {
+    "name" : "tr0384.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594543,
+    "updated" : 1704985594543
+  }, {
+    "name" : "tr0385.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594597,
+    "updated" : 1704985594597
+  }, {
+    "name" : "tr0386.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594618,
+    "updated" : 1704985594618
+  }, {
+    "name" : "tr0387.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594639,
+    "updated" : 1704985594639
+  }, {
+    "name" : "tr0388.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594670,
+    "updated" : 1704985594670
+  }, {
+    "name" : "tr0390.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594703,
+    "updated" : 1704985594703
+  }, {
+    "name" : "tr0391.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594736,
+    "updated" : 1704985594736
+  }, {
+    "name" : "tr0392.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594755,
+    "updated" : 1704985594755
+  }, {
+    "name" : "tr0393.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594776,
+    "updated" : 1704985594776
+  }, {
+    "name" : "tr0394.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594796,
+    "updated" : 1704985594796
+  }, {
+    "name" : "tr0395.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594817,
+    "updated" : 1704985594817
+  }, {
+    "name" : "tr0396.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594838,
+    "updated" : 1704985594838
+  }, {
+    "name" : "tr0397.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594862,
+    "updated" : 1704985594862
+  }, {
+    "name" : "tr0403.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594883,
+    "updated" : 1704985594883
+  }, {
+    "name" : "tr0414.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594904,
+    "updated" : 1704985594904
+  }, {
+    "name" : "tr0424.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594923,
+    "updated" : 1704985594923
+  }, {
+    "name" : "tr0425.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594945,
+    "updated" : 1704985594945
+  }, {
+    "name" : "tr0427.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985594992,
+    "updated" : 1704985594992
+  }, {
+    "name" : "tr0431.tsv",
+    "format" : "ctsv3",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1704985595035,
+    "updated" : 1704985595035
+  }, {
+    "name" : "tr0435.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595060,
+    "updated" : 1704985674719
+  }, {
+    "name" : "tr0436.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595115,
+    "updated" : 1704985673669
+  }, {
+    "name" : "tr0437.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595162,
+    "updated" : 1704985671794
+  }, {
+    "name" : "tr0438.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595183,
+    "updated" : 1704985670776
+  }, {
+    "name" : "tr0440.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595204,
+    "updated" : 1704985669815
+  }, {
+    "name" : "tr0445.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595226,
+    "updated" : 1704985667863
+  }, {
+    "name" : "tr0453.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595259,
+    "updated" : 1704985666406
+  }, {
+    "name" : "tr0459.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595278,
+    "updated" : 1704985664134
+  }, {
+    "name" : "tr0466.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595306,
+    "updated" : 1704985662787
+  }, {
+    "name" : "tr0467.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595448,
+    "updated" : 1704985661182
+  }, {
+    "name" : "tr0468.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595483,
+    "updated" : 1704985629183
+  }, {
+    "name" : "tr0469.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595533,
+    "updated" : 1704985627926
+  }, {
+    "name" : "tr0475.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595624,
+    "updated" : 1704985626392
+  }, {
+    "name" : "tr0477.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595665,
+    "updated" : 1704985624329
+  }, {
+    "name" : "tr0478.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595696,
+    "updated" : 1704985622745
+  }, {
+    "name" : "tr0480.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595732,
+    "updated" : 1704985621204
+  }, {
+    "name" : "tr0482.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595798,
+    "updated" : 1704985620300
+  }, {
+    "name" : "tr0483.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595885,
+    "updated" : 1704985618580
+  }, {
+    "name" : "tr0497.tsv",
+    "format" : "ctsv3",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1704985595949,
+    "updated" : 1704985607088
+  } ],
+  "annotation_documents" : [ {
+    "name" : "sm0003.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1626793910000,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 6,
+    "created" : 1674747109425,
+    "updated" : 1674747109425
+  }, {
+    "name" : "sm0003.tsv",
+    "user" : "sm",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1638795913000,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 4,
+    "created" : 1674747109426,
+    "updated" : 1674747109426
+  }, {
+    "name" : "tr0304.tsv",
+    "user" : "ik",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1635150128000,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 2,
+    "created" : 1674747109744,
+    "updated" : 1674747109744
+  }, {
+    "name" : "tr0304.tsv",
+    "user" : "ep",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1674747109746,
+    "updated" : 1674747109746
+  }, {
+    "name" : "tr0304.tsv",
+    "user" : "sm",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1674747109747,
+    "updated" : 1674747109747
+  }, {
+    "name" : "tr0304.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1626773311000,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 5,
+    "created" : 1674747109749,
+    "updated" : 1674747109749
+  }, {
+    "name" : "tr0315.tsv",
+    "user" : "ik",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1635350987000,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 7,
+    "created" : 1674747109767,
+    "updated" : 1674747109767
+  }, {
+    "name" : "tr0315.tsv",
+    "user" : "ep",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1674747109768,
+    "updated" : 1674747109768
+  }, {
+    "name" : "tr0315.tsv",
+    "user" : "sm",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1674747109769,
+    "updated" : 1674747109769
+  }, {
+    "name" : "tr0315.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1626707883000,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 8,
+    "created" : 1674747109770,
+    "updated" : 1674747109770
+  }, {
+    "name" : "tr0317.tsv",
+    "user" : "ik",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1635151436000,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 8,
+    "created" : 1674747109770,
+    "updated" : 1674747109770
+  }, {
+    "name" : "tr0317.tsv",
+    "user" : "ep",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1674747109771,
+    "updated" : 1674747109771
+  }, {
+    "name" : "tr0317.tsv",
+    "user" : "sm",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1674747109772,
+    "updated" : 1674747109772
+  }, {
+    "name" : "tr0317.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1626707107000,
+    "annotatorState" : null,
+    "annotatorComment" : null,
+    "sentence_accessed" : 8,
+    "created" : 1674747109773,
+    "updated" : 1674747109773
+  }, {
+    "name" : "2002.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687785482466,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687785482429,
+    "updated" : 1687785482466
+  }, {
+    "name" : "2003.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687785700137,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687785700081,
+    "updated" : 1687785700137
+  }, {
+    "name" : "2005.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687785711359,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687785711294,
+    "updated" : 1687785711360
+  }, {
+    "name" : "2004.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687786252564,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687785982010,
+    "updated" : 1687786252564
+  }, {
+    "name" : "2002.tsv",
+    "user" : "sm",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687788257685,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687788257646,
+    "updated" : 1687788257686
+  }, {
+    "name" : "2003.tsv",
+    "user" : "sm",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687788269898,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687788269856,
+    "updated" : 1687788269899
+  }, {
+    "name" : "2004.tsv",
+    "user" : "sm",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687788272867,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687788272826,
+    "updated" : 1687788272868
+  }, {
+    "name" : "2005.tsv",
+    "user" : "sm",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687788301127,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687788301084,
+    "updated" : 1687788301128
+  }, {
+    "name" : "2006.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855078655,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855078613,
+    "updated" : 1687855078655
+  }, {
+    "name" : "2007.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855083945,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855083906,
+    "updated" : 1687855083945
+  }, {
+    "name" : "2008.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855090424,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855090387,
+    "updated" : 1687855090425
+  }, {
+    "name" : "2009.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855101798,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855101759,
+    "updated" : 1687855101798
+  }, {
+    "name" : "2010.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855123317,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855123278,
+    "updated" : 1687855123318
+  }, {
+    "name" : "2011.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855136664,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855136598,
+    "updated" : 1687855136665
+  }, {
+    "name" : "2012.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855153696,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855153624,
+    "updated" : 1687855153697
+  }, {
+    "name" : "2013.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855164120,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855164067,
+    "updated" : 1687855164121
+  }, {
+    "name" : "2014.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855201643,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855201576,
+    "updated" : 1687855201644
+  }, {
+    "name" : "2015.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855215045,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855214993,
+    "updated" : 1687855215046
+  }, {
+    "name" : "2016.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855234035,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855233962,
+    "updated" : 1687855234036
+  }, {
+    "name" : "2017.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855236373,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855236316,
+    "updated" : 1687855236374
+  }, {
+    "name" : "2018.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855270725,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855270687,
+    "updated" : 1687855270726
+  }, {
+    "name" : "2019.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855300115,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855300069,
+    "updated" : 1687855300116
+  }, {
+    "name" : "2020.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855305145,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855305103,
+    "updated" : 1687855305146
+  }, {
+    "name" : "2006.tsv",
+    "user" : "sm",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687855512559,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687855512517,
+    "updated" : 1687855512559
+  }, {
+    "name" : "2001.tsv",
+    "user" : "sm",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1687871517981,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687788240918,
+    "updated" : 1687871517982
+  }, {
+    "name" : "2001.tsv",
+    "user" : "ep",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1692012618334,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1692012617902,
+    "updated" : 1692012618334
+  }, {
+    "name" : "2001.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1692190164179,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1687785158011,
+    "updated" : 1692190164180
+  }, {
+    "name" : "inc0020.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970933155,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970933091,
+    "updated" : 1704970933156
+  }, {
+    "name" : "inc0027.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970937439,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970937384,
+    "updated" : 1704970937439
+  }, {
+    "name" : "inc0036.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970940040,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970939981,
+    "updated" : 1704970940041
+  }, {
+    "name" : "inc0040.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970941309,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970941256,
+    "updated" : 1704970941309
+  }, {
+    "name" : "inc0068.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970944613,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970944314,
+    "updated" : 1704970944614
+  }, {
+    "name" : "inc0069.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970946224,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970946163,
+    "updated" : 1704970946225
+  }, {
+    "name" : "inc0073.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970949378,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970949267,
+    "updated" : 1704970949379
+  }, {
+    "name" : "inc0074.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970951778,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970951697,
+    "updated" : 1704970951779
+  }, {
+    "name" : "inc0075.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704970957256,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704970957180,
+    "updated" : 1704970957256
+  }, {
+    "name" : "nv0003.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973133869,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973133808,
+    "updated" : 1704973133870
+  }, {
+    "name" : "nv0005.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973143289,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973143241,
+    "updated" : 1704973143289
+  }, {
+    "name" : "tr0005.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973145871,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973145824,
+    "updated" : 1704973145871
+  }, {
+    "name" : "tr0007.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973146829,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973146784,
+    "updated" : 1704973146829
+  }, {
+    "name" : "tr0008.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973148156,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973148099,
+    "updated" : 1704973148156
+  }, {
+    "name" : "tr0062.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973149160,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973149096,
+    "updated" : 1704973149161
+  }, {
+    "name" : "tr0083.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973150235,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973150090,
+    "updated" : 1704973150236
+  }, {
+    "name" : "tr0084.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973151453,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973151382,
+    "updated" : 1704973151454
+  }, {
+    "name" : "tr0086.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973152465,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973152309,
+    "updated" : 1704973152466
+  }, {
+    "name" : "tr0087.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973159041,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973158985,
+    "updated" : 1704973159041
+  }, {
+    "name" : "tr0089.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973160386,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973160292,
+    "updated" : 1704973160387
+  }, {
+    "name" : "tr0090.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973161246,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973161191,
+    "updated" : 1704973161247
+  }, {
+    "name" : "tr0092.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973162301,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973162212,
+    "updated" : 1704973162302
+  }, {
+    "name" : "tr0093.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973163344,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973163226,
+    "updated" : 1704973163344
+  }, {
+    "name" : "tr0094.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973164645,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973164304,
+    "updated" : 1704973164645
+  }, {
+    "name" : "tr0096.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973165756,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973165524,
+    "updated" : 1704973165757
+  }, {
+    "name" : "tr0097.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973166839,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973166720,
+    "updated" : 1704973166839
+  }, {
+    "name" : "tr0098.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973169037,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973168970,
+    "updated" : 1704973169038
+  }, {
+    "name" : "tr0099.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973171538,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973171482,
+    "updated" : 1704973171538
+  }, {
+    "name" : "tr0100.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973172643,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973172561,
+    "updated" : 1704973172643
+  }, {
+    "name" : "tr0306.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704973176524,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704973176452,
+    "updated" : 1704973176524
+  }, {
+    "name" : "inc0003.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974498557,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974498513,
+    "updated" : 1704974498557
+  }, {
+    "name" : "inc0004.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974499989,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974499944,
+    "updated" : 1704974499990
+  }, {
+    "name" : "inc0007.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974500991,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974500944,
+    "updated" : 1704974500991
+  }, {
+    "name" : "inc0008.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974501906,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974501803,
+    "updated" : 1704974501907
+  }, {
+    "name" : "inc0009.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974503047,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974502999,
+    "updated" : 1704974503047
+  }, {
+    "name" : "inc0010.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974504338,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974504294,
+    "updated" : 1704974504338
+  }, {
+    "name" : "inc0011.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974505439,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974505395,
+    "updated" : 1704974505439
+  }, {
+    "name" : "inc0012.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974506899,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974506848,
+    "updated" : 1704974506899
+  }, {
+    "name" : "inc0016.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974507673,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974507619,
+    "updated" : 1704974507673
+  }, {
+    "name" : "inc0019.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704974508642,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704974508583,
+    "updated" : 1704974508643
+  }, {
+    "name" : "tr0361.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704981285896,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704975396823,
+    "updated" : 1704981285898
+  }, {
+    "name" : "tr0359.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704981296261,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704981296167,
+    "updated" : 1704981296262
+  }, {
+    "name" : "tr0352.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704981326016,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704981325921,
+    "updated" : 1704981326017
+  }, {
+    "name" : "tr0348.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704981334730,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704981334635,
+    "updated" : 1704981334731
+  }, {
+    "name" : "tr0347.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704981340203,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704981340120,
+    "updated" : 1704981340203
+  }, {
+    "name" : "tr0345.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704981341918,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704981341791,
+    "updated" : 1704981341918
+  }, {
+    "name" : "tr0337.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704981343035,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704981342946,
+    "updated" : 1704981343035
+  }, {
+    "name" : "tr0333.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704981345292,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704981345061,
+    "updated" : 1704981345293
+  }, {
+    "name" : "inc0002.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983415098,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983415033,
+    "updated" : 1704983415098
+  }, {
+    "name" : "inc0001.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983564305,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983564218,
+    "updated" : 1704983564306
+  }, {
+    "name" : "inc0021.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983611411,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983611340,
+    "updated" : 1704983611411
+  }, {
+    "name" : "inc0025.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983613076,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983613003,
+    "updated" : 1704983613077
+  }, {
+    "name" : "inc0026.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983614742,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983614526,
+    "updated" : 1704983614742
+  }, {
+    "name" : "inc0028.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983619809,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983619755,
+    "updated" : 1704983619810
+  }, {
+    "name" : "inc0029.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983621308,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983621245,
+    "updated" : 1704983621309
+  }, {
+    "name" : "inc0031.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983628208,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983628114,
+    "updated" : 1704983628208
+  }, {
+    "name" : "inc0032.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983629780,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983629709,
+    "updated" : 1704983629780
+  }, {
+    "name" : "inc0035.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983644272,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983644209,
+    "updated" : 1704983644272
+  }, {
+    "name" : "inc0037.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983646789,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983646722,
+    "updated" : 1704983646789
+  }, {
+    "name" : "inc0039.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983648075,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983647997,
+    "updated" : 1704983648075
+  }, {
+    "name" : "inc0041.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983653116,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983653057,
+    "updated" : 1704983653116
+  }, {
+    "name" : "inc0042.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983653974,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983653916,
+    "updated" : 1704983653974
+  }, {
+    "name" : "inc0043.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983654883,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983654820,
+    "updated" : 1704983654884
+  }, {
+    "name" : "inc0044.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983655975,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983655902,
+    "updated" : 1704983655975
+  }, {
+    "name" : "inc0045.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983656989,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983656915,
+    "updated" : 1704983656990
+  }, {
+    "name" : "inc0046.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983657822,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983657746,
+    "updated" : 1704983657823
+  }, {
+    "name" : "inc0047.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983658791,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983658665,
+    "updated" : 1704983658792
+  }, {
+    "name" : "inc0048.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983659626,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983659527,
+    "updated" : 1704983659627
+  }, {
+    "name" : "inc0049.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983660538,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983660453,
+    "updated" : 1704983660539
+  }, {
+    "name" : "inc0050.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983661324,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983661232,
+    "updated" : 1704983661325
+  }, {
+    "name" : "inc0051.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983662284,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983662081,
+    "updated" : 1704983662284
+  }, {
+    "name" : "inc0052.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983663118,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983663058,
+    "updated" : 1704983663119
+  }, {
+    "name" : "inc0053.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983670706,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983670654,
+    "updated" : 1704983670706
+  }, {
+    "name" : "inc0054.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983672624,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983672549,
+    "updated" : 1704983672624
+  }, {
+    "name" : "inc0055.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983674590,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983674521,
+    "updated" : 1704983674591
+  }, {
+    "name" : "inc0056.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983675477,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983675380,
+    "updated" : 1704983675478
+  }, {
+    "name" : "inc0057.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983676235,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983676175,
+    "updated" : 1704983676235
+  }, {
+    "name" : "inc0058.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983677042,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983676978,
+    "updated" : 1704983677042
+  }, {
+    "name" : "inc0060.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983677850,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983677710,
+    "updated" : 1704983677850
+  }, {
+    "name" : "inc0061.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983678835,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983678762,
+    "updated" : 1704983678835
+  }, {
+    "name" : "inc0062.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983680243,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983680176,
+    "updated" : 1704983680243
+  }, {
+    "name" : "inc0063.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983682032,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983681924,
+    "updated" : 1704983682032
+  }, {
+    "name" : "inc0066.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983684566,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983684509,
+    "updated" : 1704983684566
+  }, {
+    "name" : "inc0067.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983685594,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983685434,
+    "updated" : 1704983685595
+  }, {
+    "name" : "inc0070.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983688576,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983688506,
+    "updated" : 1704983688576
+  }, {
+    "name" : "sanofi.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983708960,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983708914,
+    "updated" : 1704983708961
+  }, {
+    "name" : "tr0003.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983718422,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983718366,
+    "updated" : 1704983718422
+  }, {
+    "name" : "tr0006.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983792133,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983792086,
+    "updated" : 1704983792133
+  }, {
+    "name" : "tr0016.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983796739,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983796678,
+    "updated" : 1704983796740
+  }, {
+    "name" : "inc0070b.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704983937469,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704983937376,
+    "updated" : 1704983937469
+  }, {
+    "name" : "tr0365.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704984494730,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704984494672,
+    "updated" : 1704984494731
+  }, {
+    "name" : "tr0497.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985607083,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985607028,
+    "updated" : 1704985607083
+  }, {
+    "name" : "tr0483.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985618573,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985618502,
+    "updated" : 1704985618573
+  }, {
+    "name" : "tr0482.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985620292,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985620239,
+    "updated" : 1704985620292
+  }, {
+    "name" : "tr0480.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985621195,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985621136,
+    "updated" : 1704985621196
+  }, {
+    "name" : "tr0478.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985622738,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985622694,
+    "updated" : 1704985622739
+  }, {
+    "name" : "tr0477.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985624322,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985624277,
+    "updated" : 1704985624323
+  }, {
+    "name" : "tr0475.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985626374,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985626228,
+    "updated" : 1704985626376
+  }, {
+    "name" : "tr0469.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985627919,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985627875,
+    "updated" : 1704985627920
+  }, {
+    "name" : "tr0468.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985629175,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985629130,
+    "updated" : 1704985629176
+  }, {
+    "name" : "tr0467.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985661174,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985661128,
+    "updated" : 1704985661175
+  }, {
+    "name" : "tr0466.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985662780,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985662710,
+    "updated" : 1704985662780
+  }, {
+    "name" : "tr0459.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985664127,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985664074,
+    "updated" : 1704985664127
+  }, {
+    "name" : "tr0453.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985666399,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985666353,
+    "updated" : 1704985666400
+  }, {
+    "name" : "tr0445.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985667855,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985667811,
+    "updated" : 1704985667856
+  }, {
+    "name" : "tr0440.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985669808,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985669756,
+    "updated" : 1704985669808
+  }, {
+    "name" : "tr0438.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985670769,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985670723,
+    "updated" : 1704985670770
+  }, {
+    "name" : "tr0437.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985671787,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985671742,
+    "updated" : 1704985671787
+  }, {
+    "name" : "tr0436.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985673659,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985673492,
+    "updated" : 1704985673660
+  }, {
+    "name" : "tr0435.tsv",
+    "user" : "yes",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1704985674711,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1704985674650,
+    "updated" : 1704985674712
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "ep"
+  }, {
+    "level" : "CURATOR",
+    "user" : "ep"
+  }, {
+    "level" : "USER",
+    "user" : "ep"
+  }, {
+    "level" : "ADMIN",
+    "user" : "ik"
+  }, {
+    "level" : "CURATOR",
+    "user" : "ik"
+  }, {
+    "level" : "USER",
+    "user" : "ik"
+  }, {
+    "level" : "ADMIN",
+    "user" : "sm"
+  }, {
+    "level" : "CURATOR",
+    "user" : "sm"
+  }, {
+    "level" : "USER",
+    "user" : "sm"
+  }, {
+    "level" : "ADMIN",
+    "user" : "yes"
+  }, {
+    "level" : "CURATOR",
+    "user" : "yes"
+  }, {
+    "level" : "USER",
+    "user" : "yes"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Anchor",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "DCT",
+      "tag_description" : "Значение выражения вычисляется относительно \"момента речи\" (даты документа)"
+    }, {
+      "tag_name" : "Text",
+      "tag_description" : "Значение выражения вычисляется относительно ориентира, упомянутого в тексте"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Coreference mentions",
+    "description" : "coreference type annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "nam",
+      "tag_description" : "nam"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Coreference relations",
+    "description" : "coreference relation annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "anaphoric",
+      "tag_description" : "anaphoric"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Dependency flavors",
+    "description" : "Dependency flavors",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "basic",
+      "tag_description" : "basic"
+    }, {
+      "tag_name" : "enhanced",
+      "tag_description" : "enhanced"
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Named Entity tags",
+    "description" : "Named Entity annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "LOC",
+      "tag_description" : "Location derivatives"
+    }, {
+      "tag_name" : "LOCderiv",
+      "tag_description" : "Location derivative"
+    }, {
+      "tag_name" : "LOCpart",
+      "tag_description" : "Hyphenated part  is location"
+    }, {
+      "tag_name" : "ORG",
+      "tag_description" : "Organization"
+    }, {
+      "tag_name" : "ORGderiv",
+      "tag_description" : "Organization derivative"
+    }, {
+      "tag_name" : "ORGpart",
+      "tag_description" : "Hyphenated part  is organization"
+    }, {
+      "tag_name" : "OTH",
+      "tag_description" : "Other: Every name that is not a location, person or organisation"
+    }, {
+      "tag_name" : "OTHderiv",
+      "tag_description" : "Other derivative"
+    }, {
+      "tag_name" : "OTHpart",
+      "tag_description" : "Hyphenated part  is Other"
+    }, {
+      "tag_name" : "PER",
+      "tag_description" : "Person"
+    }, {
+      "tag_name" : "PERderiv",
+      "tag_description" : "Person derivative"
+    }, {
+      "tag_name" : "PERpart",
+      "tag_description" : "Hyphenated part  is person"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Operation",
+    "description" : "operation to be done with specified in tokenIDs token/tokens in order to correct",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "delete",
+      "tag_description" : "delete"
+    }, {
+      "tag_name" : "insert_after",
+      "tag_description" : "insert after"
+    }, {
+      "tag_name" : "insert_before",
+      "tag_description" : "insert before"
+    }, {
+      "tag_name" : "replace",
+      "tag_description" : "replace"
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "RefVerified",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "false",
+      "tag_description" : null
+    }, {
+      "tag_name" : "sameYear",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Relation",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "Following",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Preceding",
+      "tag_description" : null
+    }, {
+      "tag_name" : "SameAs/Including/Included",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "RestoreOptions",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "DCT",
+      "tag_description" : "Дата восстанавливается через отношение к \"моменту речи\" (дате документа) -- как  ближайшая (в т. ч. включающая \"момент речи\" или совпадающая с ним)"
+    }, {
+      "tag_name" : "Text",
+      "tag_description" : "Восстановление даты через отношение к \"моменту речи\" (дате документа) не корректно. Восстанавливать неполноту нужно с помощью другой даты, упомянутой в тексте."
+    }, {
+      "tag_name" : "both",
+      "tag_description" : "Дата корректно восстанавливается и через отношение к DCT, и с помощью даты, упомянутой в тексте."
+    }, {
+      "tag_name" : "neither",
+      "tag_description" : "Дата не может быть восстановлена ни через отношение к DCT, ни с помощью  какой-либо другой даты в тексте."
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "STTS POS tags",
+    "description" : "Stuttgart-Tübingen-Tag-Set \nGerman Part of Speech tagset STTS Tag Table (1995/1999): http://www.ims.uni-stuttgart.de/projekte/corplex/TagSets/stts-table.html",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "$(",
+      "tag_description" : "sonstige Satzzeichen; satzintern \nBsp: - [,]()"
+    }, {
+      "tag_name" : "$,",
+      "tag_description" : "Komma \nBsp: ,"
+    }, {
+      "tag_name" : "$.",
+      "tag_description" : "Satzbeendende Interpunktion \nBsp: . ? ! ; :   "
+    }, {
+      "tag_name" : "--",
+      "tag_description" : "--"
+    }, {
+      "tag_name" : "ADJA",
+      "tag_description" : "attributives Adjektiv \nBsp: [das] große [Haus]"
+    }, {
+      "tag_name" : "ADJD",
+      "tag_description" : "adverbiales oder prädikatives Adjektiv \nBsp: [er fährt] schnell, [er ist] schnell"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "Adverb \nBsp: schon, bald, doch "
+    }, {
+      "tag_name" : "APPO",
+      "tag_description" : "Postposition \nBsp: [ihm] zufolge, [der Sache] wegen"
+    }, {
+      "tag_name" : "APPR",
+      "tag_description" : "Präposition; Zirkumposition links \nBsp: in [der Stadt], ohne [mich]"
+    }, {
+      "tag_name" : "APPRART",
+      "tag_description" : "Präposition mit Artikel \nBsp: im [Haus], zur [Sache]"
+    }, {
+      "tag_name" : "APZR",
+      "tag_description" : "Zirkumposition rechts \nBsp: [von jetzt] an"
+    }, {
+      "tag_name" : "ART",
+      "tag_description" : "bestimmter oder unbestimmter Artikel \nBsp: der, die, das, ein, eine"
+    }, {
+      "tag_name" : "CARD",
+      "tag_description" : "Kardinalzahl \nBsp: zwei [Männer], [im Jahre] 1994"
+    }, {
+      "tag_name" : "FM",
+      "tag_description" : "Fremdsprachliches Material \nBsp: [Er hat das mit ``] A big fish ['' übersetzt]"
+    }, {
+      "tag_name" : "ITJ",
+      "tag_description" : "Interjektion \nBsp: mhm, ach, tja"
+    }, {
+      "tag_name" : "KOKOM",
+      "tag_description" : "Vergleichskonjunktion \nBsp: als, wie"
+    }, {
+      "tag_name" : "KON",
+      "tag_description" : "nebenordnende Konjunktion \nBsp: und, oder, aber"
+    }, {
+      "tag_name" : "KOUI",
+      "tag_description" : "unterordnende Konjunktion mit ``zu'' und Infinitiv \nBsp: um [zu leben], anstatt [zu fragen]"
+    }, {
+      "tag_name" : "KOUS",
+      "tag_description" : "unterordnende Konjunktion mit Satz \nBsp: weil, daß, damit, wenn, ob "
+    }, {
+      "tag_name" : "NE",
+      "tag_description" : "Eigennamen \nBsp: Hans, Hamburg, HSV "
+    }, {
+      "tag_name" : "NN",
+      "tag_description" : "normales Nomen \nBsp: Tisch, Herr, [das] Reisen"
+    }, {
+      "tag_name" : "PAV",
+      "tag_description" : "Pronominaladverb \nBsp: dafür, dabei, deswegen, trotzdem "
+    }, {
+      "tag_name" : "PDAT",
+      "tag_description" : "attribuierendes Demonstrativpronomen \nBsp: jener [Mensch]"
+    }, {
+      "tag_name" : "PDS",
+      "tag_description" : "substituierendes Demonstrativpronomen \nBsp: dieser, jener"
+    }, {
+      "tag_name" : "PIAT",
+      "tag_description" : "attribuierendes Indefinitpronomen ohne Determiner \nBsp: kein [Mensch], irgendein [Glas]   "
+    }, {
+      "tag_name" : "PIDAT",
+      "tag_description" : "attribuierendes Indefinitpronomen mit Determiner \nBsp: [ein] wenig [Wasser], [die] beiden [Brüder] "
+    }, {
+      "tag_name" : "PIS",
+      "tag_description" : "substituierendes Indefinitpronomen \nBsp: keiner, viele, man, niemand "
+    }, {
+      "tag_name" : "PPER",
+      "tag_description" : "irreflexives Personalpronomen \nBsp: ich, er, ihm, mich, dir"
+    }, {
+      "tag_name" : "PPOSAT",
+      "tag_description" : "attribuierendes Possessivpronome \nBsp: mein [Buch], deine [Mutter] "
+    }, {
+      "tag_name" : "PPOSS",
+      "tag_description" : "substituierendes Possessivpronome \nBsp: meins, deiner"
+    }, {
+      "tag_name" : "PRELAT",
+      "tag_description" : "attribuierendes Relativpronomen \nBsp: [der Mann ,] dessen [Hund]   "
+    }, {
+      "tag_name" : "PRELS",
+      "tag_description" : "substituierendes Relativpronomen \nBsp: [der Hund ,] der  "
+    }, {
+      "tag_name" : "PRF",
+      "tag_description" : "reflexives Personalpronomen \nBsp: sich, einander, dich, mir"
+    }, {
+      "tag_name" : "PROAV",
+      "tag_description" : "PROAV"
+    }, {
+      "tag_name" : "PTKA",
+      "tag_description" : "Partikel bei Adjektiv oder Adverb \nBsp: am [schönsten], zu [schnell]"
+    }, {
+      "tag_name" : "PTKANT",
+      "tag_description" : "Antwortpartikel \nBsp: ja, nein, danke, bitte  "
+    }, {
+      "tag_name" : "PTKNEG",
+      "tag_description" : "Negationspartikel \nBsp: nicht"
+    }, {
+      "tag_name" : "PTKVZ",
+      "tag_description" : "abgetrennter Verbzusatz \nBsp: [er kommt] an, [er fährt] rad   "
+    }, {
+      "tag_name" : "PTKZU",
+      "tag_description" : "``zu'' vor Infinitiv \nBsp: zu [gehen]"
+    }, {
+      "tag_name" : "PWAT",
+      "tag_description" : "attribuierendes Interrogativpronomen \nBsp: welche [Farbe], wessen [Hut]  "
+    }, {
+      "tag_name" : "PWAV",
+      "tag_description" : "adverbiales Interrogativ- oder Relativpronomen \nBsp: warum, wo, wann, worüber, wobei"
+    }, {
+      "tag_name" : "PWS",
+      "tag_description" : "substituierendes Interrogativpronomen \nBsp: wer, was"
+    }, {
+      "tag_name" : "TRUNC",
+      "tag_description" : "Kompositions-Erstglied \nBsp: An- [und Abreise]"
+    }, {
+      "tag_name" : "VAFIN",
+      "tag_description" : "finites Verb, aux \nBsp: [du] bist, [wir] werden  "
+    }, {
+      "tag_name" : "VAIMP",
+      "tag_description" : "Imperativ, aux \nBsp: sei [ruhig !]  "
+    }, {
+      "tag_name" : "VAINF",
+      "tag_description" : "Infinitiv, aux \nBsp:werden, sein  "
+    }, {
+      "tag_name" : "VAPP",
+      "tag_description" : "Partizip Perfekt, aux \nBsp: gewesen "
+    }, {
+      "tag_name" : "VMFIN",
+      "tag_description" : "finites Verb, modal \nBsp: dürfen  "
+    }, {
+      "tag_name" : "VMINF",
+      "tag_description" : "Infinitiv, modal \nBsp: wollen "
+    }, {
+      "tag_name" : "VMPP",
+      "tag_description" : "Partizip Perfekt, modal \nBsp: gekonnt, [er hat gehen] können "
+    }, {
+      "tag_name" : "VVFIN",
+      "tag_description" : "finites Verb, voll \nBsp: [du] gehst, [wir] kommen [an]   "
+    }, {
+      "tag_name" : "VVIMP",
+      "tag_description" : "Imperativ, voll \nBsp: komm [!] "
+    }, {
+      "tag_name" : "VVINF",
+      "tag_description" : "Infinitiv, voll \nBsp: gehen, ankommen"
+    }, {
+      "tag_name" : "VVIZU",
+      "tag_description" : "Infinitiv mit ``zu'', voll \nBsp: anzukommen, loszulassen "
+    }, {
+      "tag_name" : "VVPP",
+      "tag_description" : "Partizip Perfekt, voll \nBsp:gegangen, angekommen "
+    }, {
+      "tag_name" : "XY",
+      "tag_description" : "Nichtwort, Sonderzeichen enthaltend \nBsp:3:7, H2O, D2XW3"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Stanford Dependencies",
+    "description" : "Stanford Dependencies for English\r\n\r\nThe English version of the Stanford dependencies has been developed by Marie-Catherine de Marneffe, Bill MacCartney, and Christopher Manning. All details about the English dependencies can be found in the manual:\r\n\r\n  Marie-Catherine de Marneffe and Christopher D. Manning. 2008. Stanford Dependencies manual.\r\n\r\nSee also: \r\n* http://nlp.stanford.edu/software/stanford-dependencies.shtml\r\n* http://nlp.stanford.edu/software/dependencies_manual.pdf",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "ROOT",
+      "tag_description" : "root\r\nThe root grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indexation of real words in the sentence starts at 1.\r\n“I love French fries.” root(ROOT, love)\r\n“Bill is an honest man” root(ROOT, man)"
+    }, {
+      "tag_name" : "acomp",
+      "tag_description" : "adjectival complement\r\nAn adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).\r\n“She looks very beautiful” acomp(looks, beautiful)"
+    }, {
+      "tag_name" : "advcl",
+      "tag_description" : "adverbial clause modifier\r\nAn adverbial clause modifier of a VP or S is a clause modifying the verb (temporal clause, consequence, conditional clause, purpose clause, etc.).\r\n“The accident happened as the night was falling” advcl(happened, falling)\r\n“If you know who did it, you should tell the teacher” advcl(tell, know)\r\n“He talked to him in order to secure the account” advcl(talked, secure)"
+    }, {
+      "tag_name" : "advmod",
+      "tag_description" : "adverbial modifier\r\nAn adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word.\r\n“Genetically modified food” advmod(modified, genetically)\r\n“less often” advmod(often, less)"
+    }, {
+      "tag_name" : "agent",
+      "tag_description" : "agent\r\nAn agent is the complement of a passive verb which is introduced by the preposition “by” and does the action. This relation only appears in the collapsed dependencies, where it can replace prep by, where appropriate. It does not appear in basic dependencies output.\r\n“The man has been killed by the police” agent(killed, police)\r\n“Effects caused by the protein are important” agent(caused, protein)"
+    }, {
+      "tag_name" : "amod",
+      "tag_description" : "adjectival modifier\r\nAn adjectival modifier of an NP is any adjectival phrase that serves to modify the meaning of the NP.\r\n“Sam eats red meat” amod(meat, red)\r\n“Sam took out a 3 million dollar loan” amod(loan, dollar)\r\n“Sam took out a $ 3 million loan”amod(loan, $)"
+    }, {
+      "tag_name" : "appos",
+      "tag_description" : "appositional modifier\r\nAn appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures.\r\nSam , my brother , arrived\r\nBill ( John ’s cousin )\r\nThe Australian Broadcasting Corporation ( ABC )"
+    }, {
+      "tag_name" : "aux",
+      "tag_description" : "auxiliary\r\nAn auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary, or a form of\r\n“be”, “do” or “have” in a periphrastic tense.\r\nReagan has died\r\nHe should leave"
+    }, {
+      "tag_name" : "auxpass",
+      "tag_description" : "passive auxiliary\r\nA passive auxiliary of a clause is a non-main verb of the clause which contains the passive information.\r\n“Kennedy has been killed” auxpass(killed, been)\r\n“Kennedy was/got killed” auxpass(killed, was/got)"
+    }, {
+      "tag_name" : "cc",
+      "tag_description" : "coordination\r\nA coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct. (Note: different dependency grammars have different treatments of coordination. We take one conjunct of a conjunction (normally the first) as the head of the conjunction.) A conjunction may also appear at the beginning of a sentence. This is also called\r\na cc, and dependent on the root predicate of the sentence.\r\n“Bill is big and honest” cc(big, and)\r\n“They either ski or snowboard” cc(ski, or)\r\n“And then we left.” cc(left, And)"
+    }, {
+      "tag_name" : "ccomp",
+      "tag_description" : "clausal complement\r\nA clausal complement of a verb or adjective is a dependent clause with an internal subject which functions like an object of the verb, or adjective. Clausal complements for nouns are limited to complement clauses with a subset of nouns like “fact” or “report”. We analyze them the same (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum\r\n2002). Such clausal complements are usually finite (though there are occasional remnant English subjunctives).\r\n“He says that you like to swim” ccomp(says, like)\r\n“I am certain that he did it” ccomp(certain, did)\r\n“I admire the fact that you are honest” ccomp(fact, honest)"
+    }, {
+      "tag_name" : "conj",
+      "tag_description" : "conjunct\r\nA conjunct is the relation between two elements connected by a coordinating conjunction, such as “and”, “or”, etc. We treat conjunctions asymmetrically: The head of the relation is the first conjunct and other conjunctions depend on it via the conj relation.\r\n“Bill is big and honest” conj(big, honest)\r\n“They either ski or snowboard” conj(ski, snowboard)"
+    }, {
+      "tag_name" : "cop",
+      "tag_description" : "copula\r\nA copula is the relation between the complement of a copular verb and the copular verb. (We normally take a copula as a dependent of its complement; see the discussion in section 4.)\r\n“Bill is big” cop(big, is)\r\n“Bill is an honest man” cop(man, is)"
+    }, {
+      "tag_name" : "csubj",
+      "tag_description" : "clausal subject\r\nA clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. In the two following examples, “what she said” is the subject.\r\n“What she said makes sense” csubj(makes, said)\r\n“What she said is not true” csubj(true, said)"
+    }, {
+      "tag_name" : "csubjpass",
+      "tag_description" : "clausal passive subject\r\nA clausal passive subject is a clausal syntactic subject of a passive clause. In the example below, “that she lied” is the subject.\r\n“That she lied was suspected by everyone” csubjpass(suspected, lied)"
+    }, {
+      "tag_name" : "dep",
+      "tag_description" : "dependent\r\nA dependency is labeled as dep when the system is unable to determine a more precise dependency relation between two words. This may be because of a weird grammatical construction, a limitation in the Stanford Dependency conversion software, a parser error, or because of an unresolved long distance dependency.\r\n“Then, as if to show that he could, . . . ” dep(show, if)"
+    }, {
+      "tag_name" : "det",
+      "tag_description" : "determiner\r\nA determiner is the relation between the head of an NP and its determiner.\r\n“The man is here” det(man, the)\r\n“Which book do you prefer?” det(book, which)"
+    }, {
+      "tag_name" : "discourse",
+      "tag_description" : "discourse element\r\nThis is used for interjections and other discourse particles and elements (which are not clearly linked to the structure of the sentence, except in an expressive way). We generally follow the guidelines of what the Penn Treebanks count as an INTJ. They define this to include:\r\ninterjections (oh, uh-huh, Welcome), fillers (um, ah), and discourse markers (well, like, actually, but not you know).\r\nIguazu is in Argentina :)"
+    }, {
+      "tag_name" : "dobj",
+      "tag_description" : "expletive\r\nThis relation captures an existential “there”. The main verb of the clause is the governor.\r\n“There is a ghost in the room” expl(is, There)"
+    }, {
+      "tag_name" : "expl",
+      "tag_description" : "expletive\r\nThis relation captures an existential “there”. The main verb of the clause is the governor.\r\n“There is a ghost in the room” expl(is, There)"
+    }, {
+      "tag_name" : "goeswith",
+      "tag_description" : "goes with\r\nThis relation links two parts of a word that are separated in text that is not well edited. We follow the treebank: The GW part is the dependent and the head is in some sense the “main” part, often the second part.\r\nThey come here [with out] legal permission"
+    }, {
+      "tag_name" : "iobj",
+      "tag_description" : "indirect object\r\nThe indirect object of a VP is the noun phrase which is the (dative) object of the verb.\r\n“She gave me a raise” iobj(gave, me)"
+    }, {
+      "tag_name" : "mark",
+      "tag_description" : "marker\r\nA marker is the word introducing a finite clause subordinate to another clause. For a complement\r\nclause, this will typically be “that” or “whether”. For an adverbial clause, the marker is typically\r\na preposition like “while” or “although”. The mark is a dependent of the subordinate clause\r\nhead."
+    }, {
+      "tag_name" : "mwe",
+      "tag_description" : "multi-word expression\r\nThe multi-word expression (modifier) relation is used for certain multi-word idioms that behave like a single function word. It is used for a closed set of dependencies between words in common multi-word expressions for which it seems difficult or unclear to assign any other relationships. At present, this relation is used inside the following expressions: rather than, as well as, instead of, such as, because of, instead of, in addition to, all but, such as, because of, instead of, due to. The boundaries of this class are unclear; it could grow or shrink a little over time.\r\n“I like dogs as well as cats” mwe(well, as)\r\n“He cried because of you” mwe(of, because)"
+    }, {
+      "tag_name" : "neg",
+      "tag_description" : "negation modifier\r\nThe negation modifier is the relation between a negation word and the word it modifies.\r\n“Bill is not a scientist” neg(scientist, not)\r\n“Bill doesn’t drive” neg(drive, n’t)"
+    }, {
+      "tag_name" : "nn",
+      "tag_description" : "noun compound modifier\r\nA noun compound modifier of an NP is any noun that serves to modify the head noun. (Note that in the current system for dependency extraction, all nouns modify the rightmost noun of the NP – there is no intelligent noun compound analysis. This is likely to be fixed once the Penn Treebank represents the branching structure of NPs.)\r\n“Oil price futures” nn(futures, oil) nn(futures, price)"
+    }, {
+      "tag_name" : "npadvmod",
+      "tag_description" : "noun phrase as adverbial modifier\r\nThis relation captures various places where something syntactically a noun phrase (NP) is used as an adverbial modifier in a sentence. These usages include: (i) a measure phrase, which is the relation between the head of an ADJP/ADVP/PP and the head of a measure phrase modifying the ADJP/ADVP; (ii) noun phrases giving an extent inside a VP which are not objects; (iii) financial constructions involving an adverbial or PP-like NP, notably the following construction $5 a share, where the second NP means “per share”; (iv) floating reflexives; and (v) certain other absolutive NP constructions. A temporal modifier (tmod) is a subclass of\r\nnpadvmod which is distinguished as a separate relation.\r\n“The director is 65 years old” npadvmod(old, years)\r\n“6 feet long” npadvmod(long, feet)\r\n“Shares eased a fraction” npadvmod(eased, fraction)\r\n“IBM earned $ 5 a share” npadvmod($, share)\r\n“The silence is itself significant” npadvmod(significant, itself)\r\n“90% of Australians like him, the most of any country” npadvmod(like, most)"
+    }, {
+      "tag_name" : "nsubj",
+      "tag_description" : "nominal subject\r\nA nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun.\r\n“Clinton defeated Dole” nsubj(defeated, Clinton)\r\n“The baby is cute” nsubj(cute, baby)"
+    }, {
+      "tag_name" : "nsubjpass",
+      "tag_description" : "passive nominal subject\r\nA passive nominal subject is a noun phrase which is the syntactic subject of a passive clause.\r\n“Dole was defeated by Clinton” nsubjpass(defeated, Dole)"
+    }, {
+      "tag_name" : "num",
+      "tag_description" : "numeric modifier\r\nA numeric modifier of a noun is any number phrase that serves to modify the meaning of the noun with a quantity.\r\n“Sam ate 3 sheep” num(sheep, 3)\r\n“Sam spent forty dollars” num(dollars, 40)\r\n“Sam spent $ 40” num($, 40)"
+    }, {
+      "tag_name" : "number",
+      "tag_description" : "element of compound number\r\nAn element of compound number is a part of a number phrase or currency amount. We regard a number as a specialized kind of multi-word expression.\r\n“I have four thousand sheep” number (thousand, four)\r\n“I lost $ 3.2 billion” number (billion, 3.2)"
+    }, {
+      "tag_name" : "parataxis",
+      "tag_description" : "parataxis\r\nThe parataxis relation (from Greek for “place side by side”) is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a “:” or a “;”, or two sentences placed side by side without any explicit coordination or subordination.\r\n“The guy, John said, left early in the morning” parataxis(left, said)\r\n“Let’s face it we’re annoyed” parataxis(Let, annoyed)"
+    }, {
+      "tag_name" : "pcomp",
+      "tag_description" : "prepositional complement\r\nThis is used when the complement of a preposition is a clause or prepositional phrase (or occasionally, an adverbial phrase). The prepositional complement of a preposition is the head of a clause following the preposition, or the preposition head of the following PP.\r\n“We have no information on whether users are at risk” pcomp(on, are)\r\n“They heard about you missing classes” pcomp(about, missing)"
+    }, {
+      "tag_name" : "pobj",
+      "tag_description" : "object of a preposition\r\nThe object of a preposition is the head of a noun phrase following the preposition, or the adverbs “here” and “there”. (The preposition in turn may be modifying a noun, verb, etc.) Unlike the Penn Treebank, we here define cases of VBG quasi-prepositions like “including”, “concerning”, etc. as instances of pobj. (The preposition can be tagged a FW for “pace”, “versus”, etc. It can also be called a CC – but we don’t currently handle that and would need to distinguish from conjoined prepositions.) In the case of preposition stranding, the object can precede the preposition (e.g., “What does CPR stand for?”).\r\n“I sat on the chair” pobj(on, chair)"
+    }, {
+      "tag_name" : "poss",
+      "tag_description" : "possession modifier\r\nThe possession modifier relation holds between the head of an NP and its possessive determiner, or a genitive ’s complement.\r\n“their offices” poss(offices, their)\r\n“Bill’s clothes” poss(clothes, Bill)"
+    }, {
+      "tag_name" : "possessive",
+      "tag_description" : "possessive modifier\r\nThe possessive modifier relation appears between the head of an NP and the genitive ’s.\r\n8“Bill’s clothes” possessive(John, ’s)"
+    }, {
+      "tag_name" : "preconjunct",
+      "tag_description" : "preconjunct\r\nA preconjunct is the relation between the head of an NP and a word that appears at the beginning bracketing a conjunction (and puts emphasis on it), such as “either”, “both”, “neither”).\r\n“Both the boys and the girls are here” preconj(boys, both)"
+    }, {
+      "tag_name" : "predet",
+      "tag_description" : "predeterminer\r\nA predeterminer is the relation between the head of an NP and a word that precedes and modifies the meaning of the NP determiner.\r\n“All the boys are here” predet(boys, all)"
+    }, {
+      "tag_name" : "prep",
+      "tag_description" : "prepositional modifier\r\nA prepositional modifier of a verb, adjective, or noun is any prepositional phrase that serves to modify the meaning of the verb, adjective, noun, or even another prepositon. In the collapsed representation, this is used only for prepositions with NP complements.\r\n“I saw a cat in a hat” prep(cat, in)\r\n“I saw a cat with a telescope” prep(saw, with)\r\n“He is responsible for meals” prep(responsible, for)"
+    }, {
+      "tag_name" : "prepc",
+      "tag_description" : "prepositional clausal modifier\r\nIn the collapsed representation (see section 4), a prepositional clausal modifier of a verb, adjective, or noun is a clause introduced by a preposition which serves to modify the meaning of the verb, adjective, or noun.\r\n“He purchased it without paying a premium” prepc without(purchased, paying)"
+    }, {
+      "tag_name" : "prt",
+      "tag_description" : "phrasal verb particle\r\nThe phrasal verb particle relation identifies a phrasal verb, and holds between the verb and its particle.\r\n“They shut down the station” prt(shut, down)"
+    }, {
+      "tag_name" : "punct",
+      "tag_description" : "punctuation\r\nThis is used for any piece of punctuation in a clause, if punctuation is being retained in the typed dependencies. By default, punctuation is not retained in the output.\r\n“Go home!” punct(Go, !)"
+    }, {
+      "tag_name" : "quantmod",
+      "tag_description" : "quantifier phrase modifier\r\nA quantifier modifier is an element modifying the head of a QP constituent. (These are modifiers in complex numeric quantifiers, not other types of “quantification”. Quantifiers like “all” become det.)\r\n“About 200 people came to the party” quantmod(200, About)"
+    }, {
+      "tag_name" : "ref",
+      "tag_description" : "referent\r\nA referent of the head of an NP is the relative word introducing the relative clause modifying the NP.\r\n“I saw the book which you bought” ref (book, which)"
+    }, {
+      "tag_name" : "tmod",
+      "tag_description" : "temporal modifier\r\nA temporal modifier (of a VP, NP, or an ADJP is a bare noun phrase constituent that serves to modify the meaning of the constituent by specifying a time. (Other temporal modifiers are prepositional phrases and are introduced as prep.)\r\n“Last night, I swam in the pool” tmod(swam, night)"
+    }, {
+      "tag_name" : "vmod",
+      "tag_description" : "reduced non-finite verbal modifier\r\nA reduced non-finite verbal modifier is a participial or infinitive form of a verb heading a phrase (which may have some arguments, roughly like a VP). These are used to modify the meaning of an NP or another verb. They are not core arguments of a verb or full finite relative clauses.\r\n“Points to establish are . . . ” vmod(points, establish)\r\n“I don’t have anything to say to you” vmod(anything, say)\r\n“Truffles picked during the spring are tasty” vmod(truffles, picked)\r\n“Bill tried to shoot, demonstrating his incompetence” vmod(shoot, demonstrating)"
+    }, {
+      "tag_name" : "xcomp",
+      "tag_description" : "open clausal complement\r\nAn open clausal complement (xcomp) of a VP or an ADJP is a clausal complement without its own subject, whose reference is determined by an external subject. These complements are always non-finite. The name xcomp is borrowed from Lexical-Functional Grammar.\r\n“He says that you like to swim” xcomp(like, swim)\r\n“I am ready to leave” xcomp(ready, leave)"
+    }, {
+      "tag_name" : "xsubj",
+      "tag_description" : "controlling subject\r\nA controlling subject is the relation between the head of a open clausal complement (xcomp) and the external subject of that clause. This is an additional dependency, not a basic depedency.\r\n“Tom likes to eat fish” xsubj(eat, Tom)"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "TE_Category",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "Date",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Dur",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Event",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Range",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Rel",
+      "tag_description" : null
+    }, {
+      "tag_name" : "ShiftExp",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "TE_Formula",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "?XXXX-03-17(following,Anchor)",
+      "tag_description" : null
+    }, {
+      "tag_name" : "?XXXX-10-20(following,Anchor)",
+      "tag_description" : null
+    }, {
+      "tag_name" : "?day(same,Anchor)",
+      "tag_description" : null
+    }, {
+      "tag_name" : "AFTER,Dur,Anchor",
+      "tag_description" : null
+    }, {
+      "tag_name" : "AFTER,Dur,DCT",
+      "tag_description" : null
+    }, {
+      "tag_name" : "BEFORE,Dur,Anchor",
+      "tag_description" : null
+    }, {
+      "tag_name" : "BEFORE,Dur,DCT",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Default",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "TIGER Dependencies",
+    "description" : "Dependency annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "$",
+      "tag_description" : "$"
+    }, {
+      "tag_name" : "--",
+      "tag_description" : "--"
+    }, {
+      "tag_name" : "-PUNCT-",
+      "tag_description" : "-PUNCT-"
+    }, {
+      "tag_name" : "AC",
+      "tag_description" : "AC"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "ADV"
+    }, {
+      "tag_name" : "AG",
+      "tag_description" : "AG"
+    }, {
+      "tag_name" : "APP",
+      "tag_description" : "APP"
+    }, {
+      "tag_name" : "ATTR",
+      "tag_description" : "ATTR"
+    }, {
+      "tag_name" : "AUX",
+      "tag_description" : "AUX"
+    }, {
+      "tag_name" : "AVZ",
+      "tag_description" : "AVZ"
+    }, {
+      "tag_name" : "CC",
+      "tag_description" : "CC"
+    }, {
+      "tag_name" : "CD",
+      "tag_description" : "CD"
+    }, {
+      "tag_name" : "CJ",
+      "tag_description" : "CJ"
+    }, {
+      "tag_name" : "CM",
+      "tag_description" : "CM"
+    }, {
+      "tag_name" : "CP",
+      "tag_description" : "CP"
+    }, {
+      "tag_name" : "CVC",
+      "tag_description" : "CVC"
+    }, {
+      "tag_name" : "DA",
+      "tag_description" : "DA"
+    }, {
+      "tag_name" : "DET",
+      "tag_description" : "DET"
+    }, {
+      "tag_name" : "EP",
+      "tag_description" : "EP"
+    }, {
+      "tag_name" : "ETH",
+      "tag_description" : "ETH"
+    }, {
+      "tag_name" : "EXPL",
+      "tag_description" : "EXPL"
+    }, {
+      "tag_name" : "GMOD",
+      "tag_description" : "GMOD"
+    }, {
+      "tag_name" : "GRAD",
+      "tag_description" : "GRAD"
+    }, {
+      "tag_name" : "JU",
+      "tag_description" : "JU"
+    }, {
+      "tag_name" : "KOM",
+      "tag_description" : "KOM"
+    }, {
+      "tag_name" : "KON",
+      "tag_description" : "KON"
+    }, {
+      "tag_name" : "KONJ",
+      "tag_description" : "KONJ"
+    }, {
+      "tag_name" : "MNR",
+      "tag_description" : "MNR"
+    }, {
+      "tag_name" : "MO",
+      "tag_description" : "MO"
+    }, {
+      "tag_name" : "NEB",
+      "tag_description" : "NEB"
+    }, {
+      "tag_name" : "NG",
+      "tag_description" : "NG"
+    }, {
+      "tag_name" : "NK",
+      "tag_description" : "NK"
+    }, {
+      "tag_name" : "OA",
+      "tag_description" : "OA"
+    }, {
+      "tag_name" : "OBJA",
+      "tag_description" : "OBJA"
+    }, {
+      "tag_name" : "OBJA2",
+      "tag_description" : "OBJA2"
+    }, {
+      "tag_name" : "OBJA3",
+      "tag_description" : "OBJA3"
+    }, {
+      "tag_name" : "OBJC",
+      "tag_description" : "OBJC"
+    }, {
+      "tag_name" : "OBJC2",
+      "tag_description" : "OBJC2"
+    }, {
+      "tag_name" : "OBJC3",
+      "tag_description" : "OBJC3"
+    }, {
+      "tag_name" : "OBJD",
+      "tag_description" : "OBJD"
+    }, {
+      "tag_name" : "OBJD2",
+      "tag_description" : "OBJD2"
+    }, {
+      "tag_name" : "OBJD3",
+      "tag_description" : "OBJD3"
+    }, {
+      "tag_name" : "OBJG",
+      "tag_description" : "OBJG"
+    }, {
+      "tag_name" : "OBJG2",
+      "tag_description" : "OBJG2"
+    }, {
+      "tag_name" : "OBJG3",
+      "tag_description" : "OBJG3"
+    }, {
+      "tag_name" : "OBJI",
+      "tag_description" : "OBJI"
+    }, {
+      "tag_name" : "OBJI2",
+      "tag_description" : "OBJI2"
+    }, {
+      "tag_name" : "OBJI3",
+      "tag_description" : "OBJI3"
+    }, {
+      "tag_name" : "OBJP",
+      "tag_description" : "OBJP"
+    }, {
+      "tag_name" : "OBJP2",
+      "tag_description" : "OBJP2"
+    }, {
+      "tag_name" : "OBJP3",
+      "tag_description" : "OBJP3"
+    }, {
+      "tag_name" : "OC",
+      "tag_description" : "OC"
+    }, {
+      "tag_name" : "OCRC",
+      "tag_description" : "OCRC"
+    }, {
+      "tag_name" : "OG",
+      "tag_description" : "OG"
+    }, {
+      "tag_name" : "OP",
+      "tag_description" : "OP"
+    }, {
+      "tag_name" : "PAR",
+      "tag_description" : "PAR"
+    }, {
+      "tag_name" : "PART",
+      "tag_description" : "PART"
+    }, {
+      "tag_name" : "PD",
+      "tag_description" : "PD"
+    }, {
+      "tag_name" : "PM",
+      "tag_description" : "PM"
+    }, {
+      "tag_name" : "PN",
+      "tag_description" : "PN"
+    }, {
+      "tag_name" : "PNC",
+      "tag_description" : "PNC"
+    }, {
+      "tag_name" : "PP",
+      "tag_description" : "PP"
+    }, {
+      "tag_name" : "PRED",
+      "tag_description" : "PRED"
+    }, {
+      "tag_name" : "RC",
+      "tag_description" : "RC"
+    }, {
+      "tag_name" : "RE",
+      "tag_description" : "RE"
+    }, {
+      "tag_name" : "REL",
+      "tag_description" : "REL"
+    }, {
+      "tag_name" : "ROOT",
+      "tag_description" : "ROOT"
+    }, {
+      "tag_name" : "S",
+      "tag_description" : "S"
+    }, {
+      "tag_name" : "SB",
+      "tag_description" : "SB"
+    }, {
+      "tag_name" : "SBP",
+      "tag_description" : "SBP"
+    }, {
+      "tag_name" : "SUBJ",
+      "tag_description" : "SUBJ"
+    }, {
+      "tag_name" : "SUBJ2",
+      "tag_description" : "SUBJ2"
+    }, {
+      "tag_name" : "SUBJ3",
+      "tag_description" : "SUBJ3"
+    }, {
+      "tag_name" : "SUBJC",
+      "tag_description" : "SUBJC"
+    }, {
+      "tag_name" : "SUBJC2",
+      "tag_description" : "SUBJC2"
+    }, {
+      "tag_name" : "SUBJC3",
+      "tag_description" : "SUBJC3"
+    }, {
+      "tag_name" : "SUBJI",
+      "tag_description" : "SUBJI"
+    }, {
+      "tag_name" : "SUBJI2",
+      "tag_description" : "SUBJI2"
+    }, {
+      "tag_name" : "SUBJI3",
+      "tag_description" : "SUBJI3"
+    }, {
+      "tag_name" : "SVP",
+      "tag_description" : "SVP"
+    }, {
+      "tag_name" : "UC",
+      "tag_description" : "UC"
+    }, {
+      "tag_name" : "VOK",
+      "tag_description" : "VOK"
+    }, {
+      "tag_name" : "ZEIT",
+      "tag_description" : "ZEIT"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "TreeTagger English POS tags",
+    "description" : "An extended version of the part-of-speech tagset used in the Penn Treebank. This version is used by the English model for TreeTagger.\r\n\r\nSee also:\r\n* https://catalog.ldc.upenn.edu/docs/LDC99T42/tagguid1.pdf\r\n* http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/Penn-Treebank-Tagset.pdf",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "\"",
+      "tag_description" : "quotation marks\n' \" “ ’ „"
+    }, {
+      "tag_name" : "(",
+      "tag_description" : "contextual separator, left paren\nExamples: ("
+    }, {
+      "tag_name" : ")",
+      "tag_description" : "contextual separator, right paren\nExamples: )"
+    }, {
+      "tag_name" : ",",
+      "tag_description" : "punctuation mark, comma\nExamples: ,"
+    }, {
+      "tag_name" : ".",
+      "tag_description" : "punctuation mark, sentence closer\nExamples: .;?*"
+    }, {
+      "tag_name" : ":",
+      "tag_description" : "punctuation mark, colon\nExamples: :"
+    }, {
+      "tag_name" : "CC",
+      "tag_description" : "conjunction, coordinating\nExamples: and, or, but"
+    }, {
+      "tag_name" : "CD",
+      "tag_description" : "cardinal number\nExamples: five, three, 13%"
+    }, {
+      "tag_name" : "DT",
+      "tag_description" : "determiner\nExamples: the, a, these"
+    }, {
+      "tag_name" : "EX",
+      "tag_description" : "existential there\nExamples: there were six boys"
+    }, {
+      "tag_name" : "FW",
+      "tag_description" : "foreign word\nExamples: mais"
+    }, {
+      "tag_name" : "IN",
+      "tag_description" : "conjunction, subordinating or preposition\nExamples: of, on, before, unless"
+    }, {
+      "tag_name" : "IN/that",
+      "tag_description" : "that\nExamples: that"
+    }, {
+      "tag_name" : "JJ",
+      "tag_description" : "adjective\nExamples: nice, easy"
+    }, {
+      "tag_name" : "JJR",
+      "tag_description" : "adjective, comparative\nExamples: nicer, easier"
+    }, {
+      "tag_name" : "JJS",
+      "tag_description" : "adjective, superlative\nExamples: nicest, easiest"
+    }, {
+      "tag_name" : "LS",
+      "tag_description" : "list item marker\nExamples:  "
+    }, {
+      "tag_name" : "MD",
+      "tag_description" : "verb, modal auxillary\nExamples: may, should"
+    }, {
+      "tag_name" : "NN",
+      "tag_description" : "noun, singular or mass\nExamples: tiger, chair, laughter"
+    }, {
+      "tag_name" : "NNS",
+      "tag_description" : "noun, plural\nExamples: tigers, chairs, insects"
+    }, {
+      "tag_name" : "NP",
+      "tag_description" : "noun, proper singular\nExamples: Germany, God, Alice"
+    }, {
+      "tag_name" : "NPS",
+      "tag_description" : "noun, proper plural\nExamples: we met two Christmases ago"
+    }, {
+      "tag_name" : "PDT",
+      "tag_description" : "predeterminer\nExamples: both his children"
+    }, {
+      "tag_name" : "POS",
+      "tag_description" : "possessive ending\nExamples: 's"
+    }, {
+      "tag_name" : "PP",
+      "tag_description" : "pronoun, personal\nExamples: me, you, it"
+    }, {
+      "tag_name" : "PP$",
+      "tag_description" : "pronoun, possessive\nExamples: my, your, our"
+    }, {
+      "tag_name" : "RB",
+      "tag_description" : "adverb\nExamples: extremely, loudly, hard "
+    }, {
+      "tag_name" : "RBR",
+      "tag_description" : "adverb, comparative\nExamples: better"
+    }, {
+      "tag_name" : "RBS",
+      "tag_description" : "adverb, superlative\nExamples: best"
+    }, {
+      "tag_name" : "RP",
+      "tag_description" : "adverb, particle\nExamples: about, off, up"
+    }, {
+      "tag_name" : "SENT",
+      "tag_description" : "sentence, punctuation end of sentence\nExamples: ."
+    }, {
+      "tag_name" : "SYM",
+      "tag_description" : "symbol\nExamples: %"
+    }, {
+      "tag_name" : "TO",
+      "tag_description" : "infinitival to\nExamples: what to do?"
+    }, {
+      "tag_name" : "UH",
+      "tag_description" : "interjection\nExamples: oh, oops, gosh"
+    }, {
+      "tag_name" : "VB",
+      "tag_description" : "verb to be, base form\nExamples: be"
+    }, {
+      "tag_name" : "VBD",
+      "tag_description" : "verb to be, past tense\nExamples: they were"
+    }, {
+      "tag_name" : "VBG",
+      "tag_description" : "verb to be, gerund or present participle\nExamples: being is fun"
+    }, {
+      "tag_name" : "VBN",
+      "tag_description" : "verb to be, past participle\nExamples: been"
+    }, {
+      "tag_name" : "VBP",
+      "tag_description" : "verb to be, non-3rd person singular present\nExamples: I am"
+    }, {
+      "tag_name" : "VBZ",
+      "tag_description" : "verb to be, 3rd person singular present\nExamples: she is"
+    }, {
+      "tag_name" : "VH",
+      "tag_description" : "verb to have, base form\nExamples: think"
+    }, {
+      "tag_name" : "VHD",
+      "tag_description" : "verb to have, past tense\nExamples: they thought"
+    }, {
+      "tag_name" : "VHG",
+      "tag_description" : "verb to have, gerund or present participle\nExamples: thinking is fun"
+    }, {
+      "tag_name" : "VHN",
+      "tag_description" : "verb to have, past participle\nExamples: a sunken ship"
+    }, {
+      "tag_name" : "VHP",
+      "tag_description" : "verb to have, non-3rd person singular present\nExamples: I think"
+    }, {
+      "tag_name" : "VHZ",
+      "tag_description" : "verb to have, 3rd person singular present\nExamples: she thinks"
+    }, {
+      "tag_name" : "VV",
+      "tag_description" : "verb, base form\nExamples: think"
+    }, {
+      "tag_name" : "VVD",
+      "tag_description" : "verb, past tense\nExamples: they thought"
+    }, {
+      "tag_name" : "VVG",
+      "tag_description" : "verb, gerund or present participle\nExamples: thinking is fun"
+    }, {
+      "tag_name" : "VVN",
+      "tag_description" : "verb, past participle\nExamples: a sunken ship"
+    }, {
+      "tag_name" : "VVP",
+      "tag_description" : "verb, non-3rd person singular present\nExamples: I think"
+    }, {
+      "tag_name" : "VVZ",
+      "tag_description" : "verb, 3rd person singular present\nExamples: she thinks"
+    }, {
+      "tag_name" : "WDT",
+      "tag_description" : "wh-determiner\nExamples: which, whatever, whichever"
+    }, {
+      "tag_name" : "WP",
+      "tag_description" : "wh-pronoun, personal\nExamples: what, who, whom"
+    }, {
+      "tag_name" : "WP$",
+      "tag_description" : "wh-pronoun, possessive\nExamples: whose, whosever"
+    }, {
+      "tag_name" : "WRB",
+      "tag_description" : "wh-adverb\nExamples: where, when"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal Dependencies",
+    "description" : "The idea of universal dependencies is to propose a set of universal grammatical relations which can be used with relative fidelity to capture any dependency relation between words in any language. Each dependency relation should be typed with one of the relations in the table below.\r\n\r\nThe table is adapted from Universal Stanford Dependencies: A cross-linguistic typology (de Marneffe et al. 2014). There have been modifications in the relations: we now have 40 universal relations (instead of the 42 ones proposed in the paper).\r\n\r\nNote: nmod, neg, and punct appear in two places.\r\n\r\n© 2014 Universal Dependencies contributors.\r\n\r\nSee also: http://universaldependencies.org/u/dep/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "acl",
+      "tag_description" : "clausal modifier of noun (adjectival clause)"
+    }, {
+      "tag_name" : "advcl",
+      "tag_description" : "adverbial clause modifier"
+    }, {
+      "tag_name" : "advmod",
+      "tag_description" : "adverbial modifier"
+    }, {
+      "tag_name" : "amod",
+      "tag_description" : "adjectival modifier"
+    }, {
+      "tag_name" : "appos",
+      "tag_description" : "appositional modifier"
+    }, {
+      "tag_name" : "aux",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "auxpass",
+      "tag_description" : "passive auxiliary"
+    }, {
+      "tag_name" : "case",
+      "tag_description" : "case marking"
+    }, {
+      "tag_name" : "cc",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "ccomp",
+      "tag_description" : "clausal complement"
+    }, {
+      "tag_name" : "compound",
+      "tag_description" : "compound"
+    }, {
+      "tag_name" : "conj",
+      "tag_description" : "conjunct"
+    }, {
+      "tag_name" : "cop",
+      "tag_description" : "copula"
+    }, {
+      "tag_name" : "csubj",
+      "tag_description" : "clausal subject"
+    }, {
+      "tag_name" : "csubjpass",
+      "tag_description" : "clausal passive subject"
+    }, {
+      "tag_name" : "dep",
+      "tag_description" : "unspecified dependency"
+    }, {
+      "tag_name" : "det",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "discourse",
+      "tag_description" : "discourse element"
+    }, {
+      "tag_name" : "dislocated",
+      "tag_description" : "dislocated elements"
+    }, {
+      "tag_name" : "dobj",
+      "tag_description" : "direct object"
+    }, {
+      "tag_name" : "expl",
+      "tag_description" : "expletive"
+    }, {
+      "tag_name" : "foreign",
+      "tag_description" : "foreign words"
+    }, {
+      "tag_name" : "goeswith",
+      "tag_description" : "goes with"
+    }, {
+      "tag_name" : "iobj",
+      "tag_description" : "indirect object"
+    }, {
+      "tag_name" : "list",
+      "tag_description" : "list"
+    }, {
+      "tag_name" : "mark",
+      "tag_description" : "marker"
+    }, {
+      "tag_name" : "mwe",
+      "tag_description" : "multi-word expression"
+    }, {
+      "tag_name" : "name",
+      "tag_description" : "name"
+    }, {
+      "tag_name" : "neg",
+      "tag_description" : "negation modifier"
+    }, {
+      "tag_name" : "nmod",
+      "tag_description" : "nominal modifier"
+    }, {
+      "tag_name" : "nsubj",
+      "tag_description" : "nominal subject"
+    }, {
+      "tag_name" : "nsubjpass",
+      "tag_description" : "passive nominal subject"
+    }, {
+      "tag_name" : "nummod",
+      "tag_description" : "numeric modifier"
+    }, {
+      "tag_name" : "parataxis",
+      "tag_description" : "parataxis"
+    }, {
+      "tag_name" : "punct",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "remnant",
+      "tag_description" : "remnant in ellipsis"
+    }, {
+      "tag_name" : "reparandum",
+      "tag_description" : "overridden disfluency"
+    }, {
+      "tag_name" : "root",
+      "tag_description" : "root"
+    }, {
+      "tag_name" : "vocative",
+      "tag_description" : "vocative"
+    }, {
+      "tag_name" : "xcomp",
+      "tag_description" : "open clausal complement"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal POS tags",
+    "description" : "These tags mark the core part-of-speech categories from the Universal Dependencies project. To distinguish additional lexical and grammatical properties of words, use the universal features.\r\n\r\n© 2014 Universal Dependencies contributors\r\n\r\nSee: http://universaldependencies.org/u/pos/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "ADJ",
+      "tag_description" : "adjective"
+    }, {
+      "tag_name" : "ADP",
+      "tag_description" : "adposition"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "adverb"
+    }, {
+      "tag_name" : "AUX",
+      "tag_description" : "auxiliary verb"
+    }, {
+      "tag_name" : "CONJ",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "DET",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "INTJ",
+      "tag_description" : "interjection"
+    }, {
+      "tag_name" : "NOUN",
+      "tag_description" : "noun"
+    }, {
+      "tag_name" : "NUM",
+      "tag_description" : "numeral"
+    }, {
+      "tag_name" : "PART",
+      "tag_description" : "particle"
+    }, {
+      "tag_name" : "PRON",
+      "tag_description" : "pronoun"
+    }, {
+      "tag_name" : "PROPN",
+      "tag_description" : "proper noun"
+    }, {
+      "tag_name" : "PUNCT",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "SCONJ",
+      "tag_description" : "subordinating conjunction"
+    }, {
+      "tag_name" : "SYM",
+      "tag_description" : "symbol"
+    }, {
+      "tag_name" : "VERB",
+      "tag_description" : "verb"
+    }, {
+      "tag_name" : "X",
+      "tag_description" : "other"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Universal POS tags",
+    "description" : "\"A Universal Part-of-Speech Tagset\" by Slav Petrov, Dipanjan Das and Ryan McDonald\r\nFor more details: http://arxiv.org/abs/1104.2086",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : ".",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "ADJ",
+      "tag_description" : "adjectives"
+    }, {
+      "tag_name" : "ADP",
+      "tag_description" : "adpositions (prepositions and postpositions)"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "adverbs"
+    }, {
+      "tag_name" : "CONJ",
+      "tag_description" : "conjunctions"
+    }, {
+      "tag_name" : "DET",
+      "tag_description" : "determiners"
+    }, {
+      "tag_name" : "NOUN",
+      "tag_description" : "nouns (common and proper)"
+    }, {
+      "tag_name" : "NUM",
+      "tag_description" : "cardinal numbers"
+    }, {
+      "tag_name" : "PRON",
+      "tag_description" : "pronouns "
+    }, {
+      "tag_name" : "PRT",
+      "tag_description" : "particles or other function words"
+    }, {
+      "tag_name" : "VERB",
+      "tag_description" : "verbs (all tenses and modes)"
+    }, {
+      "tag_name" : "X",
+      "tag_description" : "other: foreign words, typos, abbreviations"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "event_link_types",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "func",
+      "tag_description" : "Функциональная связь, объединяющая несколько токенов в одно выражение (\"предоставить информацию\")"
+    }, {
+      "tag_name" : "links_to",
+      "tag_description" : "подчиняющая связь"
+    }, {
+      "tag_name" : "modal",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "f_values",
+    "description" : "значения истинностного статуса",
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "Truth_knows",
+      "tag_description" : null
+    }, {
+      "tag_name" : "False_knows",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Truth_confident",
+      "tag_description" : null
+    }, {
+      "tag_name" : "False_confident",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Truth_assumes",
+      "tag_description" : null
+    }, {
+      "tag_name" : "False_assumes",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "fcontext_types",
+    "description" : "типы маркабул слоя F-Context",
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "epistemic",
+      "tag_description" : null
+    }, {
+      "tag_name" : "implicative",
+      "tag_description" : null
+    }, {
+      "tag_name" : "neutral",
+      "tag_description" : null
+    }, {
+      "tag_name" : "uncommited",
+      "tag_description" : "отказ от эп. ответ-ти (\"нет данных о\", \"не берусь утверждать...\")"
+    } ],
+    "create_tag" : false
+  } ],
+  "layers" : [ {
+    "name" : "webanno.custom.Anchored",
+    "features" : [ {
+      "name" : "To",
+      "tag_set" : {
+        "name" : "Anchor",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "To",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "U_Class",
+      "tag_set" : null,
+      "uiName" : "U_Class",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Anchored",
+    "type" : "span",
+    "description" : "Старые аннотации для отсылочных выражений",
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Anaphoric",
+    "features" : [ {
+      "name" : "Relation",
+      "tag_set" : null,
+      "uiName" : "Category",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Comment",
+      "tag_set" : null,
+      "uiName" : "Comment",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Decision",
+      "tag_set" : {
+        "name" : "RefVerified",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Decision",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "ID",
+      "tag_set" : null,
+      "uiName" : "ID",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "LinkName",
+      "tag_set" : null,
+      "uiName" : "LinkName",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Operation",
+      "tag_set" : null,
+      "uiName" : "Operation",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "eClass",
+      "tag_set" : null,
+      "uiName" : "eClass",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "uClass",
+      "tag_set" : null,
+      "uiName" : "uClass",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "AnchoredTo",
+    "type" : "relation",
+    "description" : "Это отношение между TE -- для шифтов и интервалов. А еще нужно будет аналогичное отношение для дат -- там уже между полями",
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "webanno.custom.TxtDate"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.RefersTo",
+    "features" : [ {
+      "name" : "Relation",
+      "tag_set" : null,
+      "uiName" : "Relation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Bad",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "webanno.custom.Field"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk",
+    "features" : [ {
+      "name" : "chunkValue",
+      "tag_set" : null,
+      "uiName" : "Tag",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Chunk tag",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Chunk",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Clue",
+    "features" : [ ],
+    "uiName" : "Clue",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.coref.type.Coreference",
+    "features" : [ {
+      "name" : "referenceRelation",
+      "tag_set" : {
+        "name" : "Coreference relations",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "referenceRelation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Coreference relation",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "referenceType",
+      "tag_set" : {
+        "name" : "Coreference mentions",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "referenceType",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Coreference type",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Coreference",
+    "type" : "chain",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency",
+    "features" : [ {
+      "name" : "flavor",
+      "tag_set" : {
+        "name" : "Dependency flavors",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Flavor",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "DependencyType",
+      "tag_set" : {
+        "name" : "UD Universal Dependencies",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Relation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Dependency",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.DocCreationTime",
+    "features" : [ {
+      "name" : "DayOfWeek",
+      "tag_set" : null,
+      "uiName" : "DayOfWeek",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "DocCreationTime",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Dur",
+    "features" : [ {
+      "name" : "Value",
+      "tag_set" : null,
+      "uiName" : "Value",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Dur",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "webanno.custom.Event",
+    "features" : [ {
+      "name" : "Time_test",
+      "tag_set" : null,
+      "uiName" : "Time_test",
+      "type" : "webanno.custom.TxtDate",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "ARRAY",
+      "link_mode" : "WITH_ROLE",
+      "link_type_name" : "webanno.custom.EventTime_testLink",
+      "link_type_role_feature_name" : "role",
+      "link_type_target_feature_name" : "target",
+      "traits" : "{\"defaultSlots\":[],\"enableRoleLabels\":true}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Event",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "webanno.custom.Exception",
+    "features" : [ {
+      "name" : "Comment",
+      "tag_set" : null,
+      "uiName" : "Comment",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Exception",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Field",
+    "features" : [ {
+      "name" : "Category",
+      "tag_set" : null,
+      "uiName" : "Category",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Gran",
+      "tag_set" : null,
+      "uiName" : "Gran",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "ResolveDefault",
+      "tag_set" : null,
+      "uiName" : "ResolveDefault",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "U_Class",
+      "tag_set" : null,
+      "uiName" : "U_Class",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Val",
+      "tag_set" : null,
+      "uiName" : "Val",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "fType",
+      "tag_set" : null,
+      "uiName" : "fType",
+      "type" : "uima.cas.String",
+      "enabled" : false,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Field",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Lemma",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "lemma Annotation",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Lemma",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "lemma",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Mark",
+    "features" : [ {
+      "name" : "Comment",
+      "tag_set" : null,
+      "uiName" : "Comment",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Mark",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Features",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Morphological features",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Morphological features",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "morph",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "value",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Named entity type",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Named entity",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.NoDate",
+    "features" : [ ],
+    "uiName" : "NoDate",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Correction",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Correct this token using the specified operation.",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "operation",
+      "tag_set" : {
+        "name" : "Operation",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Operation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "An operation taken to change this token.",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Orthography Correction",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+    "features" : [ {
+      "name" : "PosValue",
+      "tag_set" : {
+        "name" : "UD Universal POS tags",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "PosValue",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Part-of-speech tag",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "POS",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Paragraph",
+    "features" : [ ],
+    "uiName" : "Paragraph",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.RefersTo2",
+    "features" : [ {
+      "name" : "Operation",
+      "tag_set" : null,
+      "uiName" : "Operation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "RefersTo-2",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "webanno.custom.Mark"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Relator",
+    "features" : [ ],
+    "uiName" : "Relator",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Restored",
+    "features" : [ {
+      "name" : "Through",
+      "tag_set" : {
+        "name" : "RestoreOptions",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Through",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "U_Class",
+      "tag_set" : null,
+      "uiName" : "U_Class",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Restored",
+    "type" : "span",
+    "description" : "Старые аннотации для неполных дат",
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArg",
+    "features" : [ ],
+    "uiName" : "SemArg",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemPred",
+    "features" : [ {
+      "name" : "arguments",
+      "tag_set" : null,
+      "uiName" : "arguments",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArg",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Arguments of the semantic predicate",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "ARRAY",
+      "link_mode" : "WITH_ROLE",
+      "link_type_name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArgLink",
+      "link_type_role_feature_name" : "role",
+      "link_type_target_feature_name" : "target",
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "category",
+      "tag_set" : null,
+      "uiName" : "category",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Category of the semantic predicate, e.g. the frame identifier.",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "SemPred",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Sentence",
+    "features" : [ ],
+    "uiName" : "Sentence",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.ShiftExp",
+    "features" : [ {
+      "name" : "Formula",
+      "tag_set" : null,
+      "uiName" : "Formula",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "ShiftExp",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Source",
+    "features" : [ ],
+    "uiName" : "Source",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.SurfaceForm",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : {
+        "name" : "Named Entity tags",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Form",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Original surface text",
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Surface form",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.TxtDate",
+    "features" : [ {
+      "name" : "Category",
+      "tag_set" : {
+        "name" : "TE_Category",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Category",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Formula",
+      "tag_set" : {
+        "name" : "TE_Formula",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Formula",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Gran",
+      "tag_set" : null,
+      "uiName" : "Gran",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Value",
+      "tag_set" : null,
+      "uiName" : "Value",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "TE",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Token",
+    "features" : [ ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ {
+      "name" : "lemma",
+      "tag_set" : null,
+      "uiName" : "lemma",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "morph",
+      "tag_set" : null,
+      "uiName" : "morph",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "pos",
+      "tag_set" : null,
+      "uiName" : "pos",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Event_link",
+    "features" : [ {
+      "name" : "e_link",
+      "tag_set" : {
+        "name" : "event_link_types",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "e_link",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "TimeEventCorpus",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "event_link",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "webanno.custom.Event"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "TimeEventCorpus",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]},\"renderArcs\":true}"
+  } ],
+  "disableExport" : false,
+  "script_direction" : "LTR",
+  "created" : 1601886766000,
+  "updated" : 1705049805330,
+  "anonymous_curation" : false,
+  "default-preferences" : [ ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "id" : 9,
+    "project" : {
+      "id" : 9,
+      "name" : "TimeEventCorpus",
+      "slug" : "timeeventcorpus",
+      "description" : "Тестовый корпус для оценки методов нормализации темпоральных выражений и разметки событий.",
+      "mode" : "annotation",
+      "version" : 1,
+      "disableExport" : false,
+      "scriptDirection" : "LTR",
+      "created" : 1601886766000,
+      "updated" : 1705049805330,
+      "state" : "ANNOTATION_IN_PROGRESS",
+      "anonymousCuration" : false
+    },
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ ],
+  "learning_records" : [ ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : null,
+    "type" : "matrix"
+  },
+  "user-preferences" : [ ]
+}
